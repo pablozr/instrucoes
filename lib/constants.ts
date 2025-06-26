@@ -1,0 +1,1 @@
+export const NaturezaGastoValues = ['NECESSARIO', 'SUPÉRFLUO', 'EMERGENCIAL'] 
